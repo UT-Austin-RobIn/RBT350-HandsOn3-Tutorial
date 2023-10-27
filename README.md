@@ -14,7 +14,7 @@ A virtual environment in Python is like a separate room for each of your project
 
 Miniconda is like the toolbox that helps you create and manage these separate project rooms (virtual environments) for your Python work. Now install miniconda through [this link](https://docs.conda.io/en/latest/miniconda.html). Once that's done, create a conda environment for the project by running the terminal commands below. If you're on Windows, you will need to do this in the Anaconda Prompt Terminal. Those on Linux and MacOS can run the commands in a regular terminal. 
 ```
-conda create --name reacher python=3.8
+conda create --name py_basics python=3.8
 conda activate py_basics
 ```
 To activate the conda environment,
